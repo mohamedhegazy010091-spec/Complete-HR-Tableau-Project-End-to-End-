@@ -81,9 +81,9 @@ The following tools were used to build this project:
 | Salary           | Annual salary                                    |
 | City             | City of work location                            |
 | State            | State of work location                           |
-| Performance      | Performance rating (if available)                |
+| Performance      | Performance rating                               |
 
-# How to Use This Dashboard (Optional)
+# How to Use This Dashboard 
 - Use filters to explore trends by department, age group, gender, and education.
 - Switch between Summary View and Employee Records View.
 - Analyze trends to support hiring, promotion, and workforce planning decisions.
@@ -96,6 +96,6 @@ This project reflects my interest in HR analytics and my ability to design, docu
 # Contact
 You can reach me or explore more of my work here:
 
-- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/mohamed-hegazy-80b660247)  
-- **Tableau Public:** [Your Tableau Portfolio](https://public.tableau.com/app/profile/mohamed.hegazy4475/vizzes)
+- **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/mohamed-hegazy-80b660247)  
+- **Tableau Public:** [Tableau Portfolio](https://public.tableau.com/app/profile/mohamed.hegazy4475/vizzes)
 
